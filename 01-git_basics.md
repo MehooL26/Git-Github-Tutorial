@@ -1,13 +1,13 @@
 ## CLONING AND STATUS
-- Clone : cloning a repo on our local machine
-  git clone <link> <br>
+- Clone : cloning a repo on our local machine <br>
+  git clone <-link-> 
 
 - cd <folder name> : for changing directory.
 
 - ls : lists all files and folders for the current folder.
 - ls -a : lists all the files including the hidden files.
 
-- Status : displays the state of the code i.e. whether we modified the repo or not
+- Status : displays the state of the code i.e. whether we modified the repo or not <br>
   git status
 
 - Types of Status:
