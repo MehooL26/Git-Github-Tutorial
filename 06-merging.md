@@ -7,4 +7,8 @@
 
 ###Way-2
 - we can also merge branches using Pull Request on GitHub
+
+##Merge Conflicts
+- an event that takes place when Git is unable to automatically resolve differences in code between two commits.
+- so when two branches have changes at the same place then we have to choose which change to merge or we can keep both.
   
