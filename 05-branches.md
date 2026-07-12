@@ -1,4 +1,4 @@
-##BRANCHES
+## BRANCHES
 - branches are used in cases when multiple developers are working on adding features for a project parallely.
 
   *git branch* - to check branch <br>
